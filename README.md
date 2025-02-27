@@ -6,7 +6,7 @@
 ### Admin Dashboard Dark theme
 ![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_dark.png?raw=true)
 ### Admin Dashboard Light theme
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_light.png?raw=true)
+![dashboard snap](https://github.com/SreejaShetty01/VechileService-Management/blob/main/static/screenshots/admin_light.png)
 ### Mechanic Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/mechanic_dashboard.png?raw=true)
 ### Customer Dashboard
